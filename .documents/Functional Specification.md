@@ -5,6 +5,7 @@ The goal of this project is to create a fully functional music blog, where membe
 The project contains the ordinary website elements like, registration, login system, posting etc.
 
 # 3. Standards & Laws
+
 # 4. Current business model
 The team is currently using multiple different websites for music discussions and we started to develop our own audience. Right now, we aren't able to work very well as a team because of not having our own website.
 
