@@ -8,6 +8,27 @@ The goal of this project is to create a fully functional music blog, where membe
 The project contains the ordinary website elements like, registration, login system, posting etc.
 
 # 3. Standards & Laws
+## General Standards:
+Application must meet the following general standards:
+
+1.  Must be easily understandable and easy to use for the users.
+2.  Must function in a logical manner for the users.
+3.  Must use the industry best practices.
+4.  Must use styles that are consistent throughout the application and within the associated Web site, including:
+
+-   Error messages must appear in a consistent location and style.
+-   Form controls that are not available must be hidden.
+
+
+## Browser requirements:
+-   Mozilla Firefox
+-   Microsoft Edge
+-   Google Chrome
+-   Internet Explorer
+
+
+## Privacy and Cookie Policy
+Obligation to EU privacy laws, it is our responsibility to inform users about how we handle their personal data. For this reason we will provide a Privacy Policy and a Cookie Policy for users to read. In the functional specification it will be explained in details.
 
 # 4. Current business model
 The team is currently using multiple different websites for music discussions and we started to develop our own audience. Right now, we aren't able to work very well as a team because of not having our own website.
