@@ -43,7 +43,14 @@ Obligation to EU privacy laws, it is our responsibility to inform users about ho
 The team is currently using multiple different websites for music discussions and we've started to develop our own audience. Right now, we aren't able to work very well as a team because of not having our own website where we can manage the content we share. Furthermore, our content is hard to find for our followers, often times lost in the vast amount of posts being published on these websites. Needless to say that this is far from optimal for us and for our audience.
 
 # 5. Requested Business model
+Although the members of our team are creating content purely as a hobby, we'd like to improve on our online presence, and work towards being professionals. This requires a new website for us, where we're able to do a lot more than we can right now. Our vision is the following:
 
+- Functions that allow members to post, edit and delete content.
+- Visitors can view the posts, and search through them.
+- Easy to use, intuitive interface and navigation.
+- Visitors must have an internet connection in order to connect to the website and use it without any disruption.
+- Fully functional database with secure connection.
+- Visitors don't have to be registered to view the contents shared by our members.
 
 # 6. Request List
 
