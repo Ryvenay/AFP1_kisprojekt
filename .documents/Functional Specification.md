@@ -31,7 +31,7 @@ Application must meet the following general standards:
 Obligation to EU privacy laws, it is our responsibility to inform users about how we handle their personal data. For this reason we will provide a Privacy Policy and a Cookie Policy for users to read. In the functional specification it will be explained in details.
 
 # 4. Current business model
-The team is currently using multiple different websites for music discussions and we started to develop our own audience. Right now, we aren't able to work very well as a team because of not having our own website.
+The team is currently using multiple different websites for music discussions and we've started to develop our own audience. Right now, we aren't able to work very well as a team because of not having our own website where we can manage the content we share. Furthermore, our content is hard to find for our followers, often times lost in the vast amount of posts being published on these websites. Needless to say that this is far from optimal for us and for our audience.
 
 # 5. Requested Business model
 
