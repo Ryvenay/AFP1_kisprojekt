@@ -1,4 +1,7 @@
-Our team consists of several music enthusiasts that are eager to listen to new music every day, and share our thoughts on it. We like to discuss everything about music - albums, concerts, musicians, record labels, and so on. We've been visiting and using many online forums and blogs, but none of them were able to satisfy our needs, so we have to make a move and create an environment where we can share our opinions without any limitations.
+# 1. Current State 
+
+We've been commissioned by a team of music enthusiast who've been posting album reviews, concert experiences, and music related content on several sites. Over time they've gained a remarkably large audience and they decided that they'd like to continue their work on their own platform, where their reader base can grow even more. Our task is to develop this platform where they can post their content more efficiently and work together with ease.
+
 
 # 2. Scope
 The goal of this project is to create a fully functional music blog, where members can post album reviews, concert experiences, interviews and users can view them.  Aside from the main function, this page has to have a user management system, which include registering new users, logging them in and out, changing password and profile details.
