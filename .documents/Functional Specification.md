@@ -24,7 +24,6 @@ Application must meet the following general standards:
 -   Mozilla Firefox
 -   Microsoft Edge
 -   Google Chrome
--   Internet Explorer
 
 
 ## Privacy and Cookie Policy
