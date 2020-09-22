@@ -9,11 +9,17 @@ Our team consists of several music enthusiasts that are eager to listen to new m
 The goal of this project is to create a fully functional music blog, where members can post album reviews, concert experiences, interviews and users can view them.  Aside from the main function, this page has to have a user management system, which include registering new users, logging them in and out, changing password and profile details.
 
 -**Home page:** This is the main page of the website. In this page users can see the latest featured blog posts.
+
 -**Review page:** Here users can see posts only about album reviews.
+
 -**Concerts page:** Users can see concert reviews.
+
 -**Interviews page:** Users can see interviews.
+
 -**Register:** On this page users can register an account.
+
 -**Log in:** This is the page where users can log in to their account
+
 -**Profile:** Users can view their profile information, like username, full name, date of birth, email address, and they can change them, including their password.
 
 # 3. Standards & Laws
