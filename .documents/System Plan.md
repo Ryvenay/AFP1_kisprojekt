@@ -2,6 +2,7 @@ Early version of the System Plan on Sep 23rd.
 
 # 1. Overview 
 ## 1.1 About this document
+Our team accepted a commission to make a fully functional website for a team of music enthusiasts. This document describes the project that is under development in detail, including the team members, their roles and responsibilities, technologies we use in this project, development plans, etc. 
 
 
 ## 1.2 Project Overview:
