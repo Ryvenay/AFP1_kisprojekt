@@ -18,9 +18,9 @@ Early version of the System Plan on Sep 23rd.
 
 ## 2.2 Team members
 
-## 2.2 Project schedule
+## 2.3 Project schedule
 
-## 2.3 Milestones
+## 2.4 Milestones
 
 # 3. Business model
 
@@ -54,17 +54,22 @@ Early version of the System Plan on Sep 23rd.
   - Based on PHP language and the user's demands
 
 
-# 4. Functions
-## 4.1 Participants
+# 5. Functions
+## 5.1 Participants
 
-## 4.2 Use cases and scenarios
+## 5.2 Use cases and scenarios
 
-# 5. Physical environments
+## 5.3 Menu hierarchy
 
-# 6. Architecture plan
+# 6. Physical environments
 
-# 7. Database plan
+# 7. Architecture plan
+## 7.1 Backend
 
-# 8. Implementation plan
+## 7.2 Frontend
 
-# 9. Test plan
+# 8. Database plan
+
+# 9. Implementation plan
+
+# 10. Test plan
