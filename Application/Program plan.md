@@ -29,4 +29,4 @@ Broadband Internet connection and high speed
 Fill in app | Querry on weblap
 ------------ | -------------
 Just a plan, not the final | Found indormation in phpdocument
-![Image of plan1](https://github.com/Ryvenay/AFP1_kisprojekt/tree/master/Application/images/plan1.png) | Found indormation in phpdocument
+![Image of plan1](https://github.com/Ryvenay/AFP1_kisprojekt/blob/master/Application/images/Plan1.PNG) | Found indormation in phpdocument
