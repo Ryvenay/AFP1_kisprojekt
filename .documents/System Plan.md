@@ -16,12 +16,31 @@ Our team accepted a commission to make a fully functional website for a team of 
 
 # 2. Project plan
 ## 2.1 Roles and responsibilities
+### Backend developer:
+Backend developers are responsible for developing the server-side code, and they create the website's functions, and the data structures. They use PHP, HTML, SQL codes.
 
-## 2.2 Team members
+### Frontend developer:
+Frontend developers implement the visual elements that users see and interact with in the website. They make sure that users have no trouble navigating the website. They use HTML, CSS, JavaScript codes.
+
+### Database developer:
+Database developers are responsible for the storage and management of the data we use in this website, and they create the models that we apply for storing data. 
+
+## 2.2 Team members 
+Nyeste Réka - Frontend developer
+Nagy Zoltán - Backend developer
+Fügedi Csaba - Database developer
+Csanádi Balázs Tóbiás - Backend developer, team leader
+
+Dombi Tibor Dávid - Senior developer, supervisor
+Nagy Martin - Supervisor
+Balog Balázs - Supervisor
 
 ## 2.3 Project schedule
 
+
 ## 2.4 Milestones
+2020. 09. 08. - The team formed.
+2020. 09. 15. - Requirement specification and functional specification has been finished.
 
 # 3. Business model
 
