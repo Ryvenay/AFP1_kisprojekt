@@ -1,9 +1,6 @@
-Early version of the System Plan on Sep 23rd.
-
 # 1. Overview 
 ## 1.1 About this document
 Our team accepted a commission to make a fully functional website for a team of music enthusiasts. This document describes the project that is under development in detail, including the team members, their roles and responsibilities, technologies we use in this project, development plans, etc. 
-
 
 ## 1.2 Project Overview:
   - We are responsible for a website, that shows articles about concerts, album reviews and interviews
@@ -46,25 +43,25 @@ Balog Balázs - Supervisor
 
 # 4. Requirements
 ## 4.1 Functional Requirements
-- Using ordinary website elements and user managment system:
-    - Registration panel
-    - Logging in and out
-    - Possibility for password changing
-    - Profile details
+Using ordinary website elements and user managment system:
+  - Registration panel
+  - Logging in and out
+  - Possibility for password changing
+  - Profile details
 
 ## 4.2 Non-funtional Requirements
-- The site must (be):
-    - easy to use
-    - user-friendly
-    - navigate to the corresponding page
-    - show error messages in different and consistent location and style
-    - have control panels, button (some of them hidden from the general users)
-    - permission
-    - fit the EU Privacy Policy requirements
-  - Supported browsers:
-    - Mozilla Firefox
-    - Microsoft Edge
-    - Google Chrome
+The site must (be):
+  - easy to use
+  - user-friendly
+  - navigate to the corresponding page
+  - show error messages in different and consistent location and style
+  - have control panels, button (some of them hidden from the general users)
+  - permission
+  - fit the EU Privacy Policy requirements
+Supported browsers:
+  - Mozilla Firefox
+  - Microsoft Edge
+  - Google Chrome
 
 ## 4.3 Resources:
   - Fully functional database with tables and relations
