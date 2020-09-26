@@ -73,8 +73,20 @@ Supported browsers:
 
 # 5. Functions
 ## 5.1 Participants
+  - User
+  - Editor
 
 ## 5.2 Use cases and scenarios
+### User:
+ - Able to see the websites front page
+ - Able to sort by categories
+ - Can open and view articles in any category
+
+ ### Editor:
+- All of the previous cases
+- Can create, edit, delete articles
+- Can view and edit their profile details
+- Can log in to their editor account
 
 ## 5.3 Menu hierarchy
 
