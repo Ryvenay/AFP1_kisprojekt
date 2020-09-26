@@ -49,15 +49,20 @@ Using ordinary website elements and user managment system:
   - Possibility for password changing
   - Profile details
 
+Functions for article management:
+  - **Article creation page:** Editors should be able to create new articles and post them to the website.
+  - **Article editing page:** Already finished articles should be editable by the website's editors and also they should be able to delete them.
+  - **Listing articles and navigation:** Visitors and editors should be able to see and filter through the articles that are posted in the website. 
+
 ## 4.2 Non-funtional Requirements
 The site must (be):
-  - easy to use
-  - user-friendly
-  - navigate to the corresponding page
-  - show error messages in different and consistent location and style
-  - have control panels, button (some of them hidden from the general users)
-  - permission
-  - fit the EU Privacy Policy requirements
+  - Easy to use
+  - User-friendly
+  - Navigate to the corresponding page
+  - Show error messages in different and consistent location and style
+  - Have control panels, button (some of them hidden from the general users)
+  - Have permission system
+  - Fit the EU Privacy Policy requirements
 Supported browsers:
   - Mozilla Firefox
   - Microsoft Edge
