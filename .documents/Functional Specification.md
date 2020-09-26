@@ -49,3 +49,18 @@ Although the members of our team are creating content purely as a hobby, we'd li
   - The post's comments
   - Latest editing of a post
   
+| Modul | ID | Name | V | Description |
+|--------|---------|-----------|-----------|-------------|
+|Database|D1|Name|0.1|Database, tables, relations|
+|Authorization|A1|Log-in|0.1|User can log-in to their account|
+|Authorization|A2|Register|0.1|User can register a new account|
+|Authorization|A3|Log-out|0.1|User can log out from their account|
+Authorization|A4|Change pw|0.1|User can change their password|
+|Posts|P1|List|0.1| Users can list posts|
+|Posts|P2|Search|0.1|Users can search posts|
+|Posts|P3|Post|0.1|Certain users can create posts |
+|Posts|P4|Edit|0.1|Certain users can edit posts |
+|Posts|P5|Delete|0.1|Certain users can delete posts |
+|Profile|PR1|Profile page|0.1|Users can view profiles|
+|Profile|PR2|Edit profile|0.1|User can edit their profile|
+
