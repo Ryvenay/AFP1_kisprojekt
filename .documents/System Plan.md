@@ -38,6 +38,7 @@ Balog Balázs - Supervisor
 ## 2.4 Milestones
 2020. 09. 08. - The team formed.
 2020. 09. 15. - Requirement specification and functional specification has been finished.
+2020. 09. 28 - The business model has been created.
 
 # 3. Business model
 ![Bus Model](https://github.com/Ryvenay/AFP1_kisprojekt/blob/master/.documents/Business%20model.png)
@@ -87,6 +88,8 @@ Supported browsers:
  - Able to see the websites front page
  - Able to sort by categories
  - Can open and view articles in any category
+ - Can create, edit and delete their own article
+ - Can view and edit their profile details
 
  ### Editor:
 - All of the previous cases
@@ -115,6 +118,8 @@ Supported browsers:
 
 # 7. Architecture plan
 ## 7.1 Backend
+ 
+
 
 ## 7.2 Frontend
 
