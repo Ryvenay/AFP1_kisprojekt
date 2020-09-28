@@ -23,22 +23,27 @@ Frontend developers implement the visual elements that users see and interact wi
 Database developers are responsible for the storage and management of the data we use in this website, and they create the models that we apply for storing data. 
 
 ## 2.2 Team members 
-Nyeste Réka - Frontend developer
-Nagy Zoltán - Backend developer
-Fügedi Csaba - Database developer
-Csanádi Balázs Tóbiás - Backend developer, team leader
+- Nyeste Réka - Frontend developer
+- Nagy Zoltán - Backend developer
+- Fügedi Csaba - Database developer
+- Csanádi Balázs Tóbiás - Backend developer, team leader
 
-Dombi Tibor Dávid - Senior developer, supervisor
-Nagy Martin - Supervisor
-Balog Balázs - Supervisor
+- Dombi Tibor Dávid - Senior developer, supervisor
+- Nagy Martin - Supervisor
+- Balog Balázs - Supervisor
 
 ## 2.3 Project schedule
-
+- 2020/09/29  System plan document 
+- 2020/09/30  Development start
+- 2020/10/??  Development finish
+- 2020/10/??  Test start
+- 2020/10/??  Test finish
+- 2020/10/??  Review, project finish
 
 ## 2.4 Milestones
-- 2020/09/08.  The team formed.
-- 2020/09/15.  Requirement specification and functional specification has been finished.
-- 2020/09/28.  The business model has been created.
+- 2020/09/08  The team formed.
+- 2020/09/15  Requirement specification and functional specification has been finished.
+- 2020/09/28  The business model has been created.
 
 # 3. Business model
 ![Bus Model](https://github.com/Ryvenay/AFP1_kisprojekt/blob/master/.documents/Business%20model.png)
