@@ -129,6 +129,8 @@ Supported browsers:
         - Topic: Under the navbar there is a slidebar with the newest posts about musicians, concerts, bands, clips.
         - Posts: Older posts with a picture.
         - Licences, laws, copyright: A small description.
+### 7.2.1 Home page
+![layoutEdited](https://github.com/Ryvenay/AFP1_kisprojekt/blob/master/.documents/layoutEdited.png)
 
 # 8. Database plan
 
