@@ -96,6 +96,21 @@ Supported browsers:
 ## 5.3 Menu hierarchy
 
 # 6. Physical environments
+- Softwares and external systems we're working with:
+    - Ragic Database System Manager
+    - Sublime Text Editor (for PHP)
+    - Gitkraken/Github for documentation
+    - Trello
+    - Visual Studio
+    - Spotify
+- Hardware and Network:
+    - General hardware and network requirements
+- Development tools:
+    - Visual Studio
+    - Sublime Text Editor
+    - Ragic Database System Manager
+- Framework:
+    - .Net
 
 # 7. Architecture plan
 ## 7.1 Backend
