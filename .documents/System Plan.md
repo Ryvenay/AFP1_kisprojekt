@@ -117,6 +117,13 @@ Supported browsers:
 ## 7.1 Backend
 
 ## 7.2 Frontend
+- Layout plan: 
+    - Home page: 
+        - Title: This is our website's name in middle. We haven't chosen it yet.
+        - Navbar: Functions of the page: Login, Albums, Interviews, Reviews, Pictures, Admin button (this is hidden from the users, who don't have the right permission). 
+        - Topic: Under the navbar there is a slidebar with the newest posts about musicians, concerts, bands, clips.
+        - Posts: Older posts with a picture.
+        - Licences, laws, copyright: A small description.
 
 # 8. Database plan
 
