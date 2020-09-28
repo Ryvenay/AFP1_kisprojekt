@@ -118,8 +118,10 @@ Supported browsers:
 
 # 7. Architecture plan
 ## 7.1 Backend
- 
-
+ The system needs a database system, in this case the team uses a Visual Studio based client, where we store the user's datas and the articles.
+Web Client:
+The client is based on HTML, CSS and PHP technologies, which helps the client to be stable. In the other hand we can create creative and spectacular
+content for our users. 
 
 ## 7.2 Frontend
 
