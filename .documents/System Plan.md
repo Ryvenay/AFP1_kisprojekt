@@ -23,10 +23,10 @@ Frontend developers implement the visual elements that users see and interact wi
 Database developers are responsible for the storage and management of the data we use in this website, and they create the models that we apply for storing data. 
 
 ## 2.2 Team members 
-- Nyeste Réka - Frontend developer
-- Nagy Zoltán - Backend developer
-- Fügedi Csaba - Database developer
-- Csanádi Balázs Tóbiás - Backend developer, team leader
+- Nyeste Réka \- Frontend developer
+- Nagy Zoltán \- Backend developer
+- Fügedi Csaba \- Database developer
+- Csanádi Balázs Tóbiás \- Backend developer, team leader
 
 - Dombi Tibor Dávid - Senior developer, supervisor
 - Nagy Martin - Supervisor
@@ -70,6 +70,7 @@ The site must (be):
   - Have control panels, button (some of them hidden from the general users)
   - Have permission system
   - Fit the EU Privacy Policy requirements
+
 Supported browsers:
   - Mozilla Firefox
   - Microsoft Edge
