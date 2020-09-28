@@ -1,9 +1,11 @@
-CREATE TABLE `Spotify` (
-  `id` int PRIMARY KEY AUTO_INCREMENT,
-  `full_name` varchar(200),
-  `picture_link` varchar(255),
-  `decritption` varchar(500),
-  `author` varchar(200),
-  `rate` int,
-  `category` varchar(255)
+CREATE TABLE spotify (
+  id int not null,
+  full_name varchar(200) not null,
+  picture_link varchar(255) not null,
+  decritption varchar(500) not null,
+  author varchar(200) not null,
+  rate int not null,
+  category varchar(255) not null,
+  
+  constraint pk_spotify_id PRIMARY KEY (id)
 );
