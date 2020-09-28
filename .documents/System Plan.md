@@ -36,9 +36,9 @@ Balog Balázs - Supervisor
 
 
 ## 2.4 Milestones
-2020. 09. 08. - The team formed.
-2020. 09. 15. - Requirement specification and functional specification has been finished.
-2020. 09. 28 - The business model has been created.
+- 2020/09/08.  The team formed.
+- 2020/09/15.  Requirement specification and functional specification has been finished.
+- 2020/09/28.  The business model has been created.
 
 # 3. Business model
 ![Bus Model](https://github.com/Ryvenay/AFP1_kisprojekt/blob/master/.documents/Business%20model.png)
@@ -77,7 +77,6 @@ Supported browsers:
   - Creative front-end palette
   - Based on PHP language and the user's demands
 
-
 # 5. Functions
 ## 5.1 Participants
   - User
@@ -100,6 +99,7 @@ Supported browsers:
 ## 5.3 Menu hierarchy
 
 # 6. Physical environments
+- This application was made for web platform and should be used with the supported web browsers
 - Softwares and external systems we're working with:
     - Ragic Database System Manager
     - Sublime Text Editor (for PHP)
@@ -107,23 +107,26 @@ Supported browsers:
     - Trello
     - Visual Studio
     - Spotify
+    - Discord
 - Hardware and Network:
     - General hardware and network requirements
 - Development tools:
     - Visual Studio
+    - Visual Studio Code
     - Sublime Text Editor
     - Ragic Database System Manager
 - Framework:
     - .Net
+    - Bootstrap
 
 # 7. Architecture plan
 ## 7.1 Backend
  The system needs a database system, in this case the team uses a Visual Studio based client, where we store the user's datas and the articles.
 Web Client:
-The client is based on HTML, CSS and PHP technologies, which helps the client to be stable. In the other hand we can create creative and spectacular
-content for our users. 
+The client is based on HTML, CSS and PHP technologies, which helps the client to be stable. In the other hand we can create creative and spectacular content for our users. 
 
 ## 7.2 Frontend
+The frontednd uses CSS, HTML codes and using Bootstrap as its framework, which helps to create a modern looking website and works well cross-platform.
 - Layout plan: 
     - Home page: 
         - Title: This is our website's name in middle. We haven't chosen it yet.
