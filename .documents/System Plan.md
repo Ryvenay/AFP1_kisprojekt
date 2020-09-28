@@ -124,6 +124,15 @@ The client is based on HTML, CSS and PHP technologies, which helps the client to
 content for our users. 
 
 ## 7.2 Frontend
+- Layout plan: 
+    - Home page: 
+        - Title: This is our website's name in middle. We haven't chosen it yet.
+        - Navbar: Functions of the page: Login, Albums, Interviews, Reviews, Pictures, Admin button (this is hidden from the users, who don't have the right permission). 
+        - Topic: Under the navbar there is a slidebar with the newest posts about musicians, concerts, bands, clips.
+        - Posts: Older posts with a picture.
+        - Licences, laws, copyright: A small description.
+### 7.2.1 Home page
+![layoutEdited](https://github.com/Ryvenay/AFP1_kisprojekt/blob/master/.documents/layoutEdited.png)
 
 # 8. Database plan
 
