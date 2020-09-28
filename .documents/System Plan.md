@@ -40,6 +40,7 @@ Balog Balázs - Supervisor
 2020. 09. 15. - Requirement specification and functional specification has been finished.
 
 # 3. Business model
+![Bus Model](https://github.com/Ryvenay/AFP1_kisprojekt/blob/master/.documents/Business%20model.png)
 
 # 4. Requirements
 ## 4.1 Functional Requirements
@@ -121,6 +122,6 @@ Supported browsers:
 
 # 9. Implementation plan
 Web:
-    As a website we use technologies like HTML, CSS and PHP. They're saved separately as files and linked to each other for the best 
-    transparency. It helps us to isolate the Backend and Frontend parts.
+ As a website we use technologies like HTML, CSS and PHP. They're saved separately as files and linked to each other for the best 
+ transparency. It helps us to isolate the Backend and Frontend parts.
 # 10. Test plan
