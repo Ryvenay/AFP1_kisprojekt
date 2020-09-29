@@ -46,7 +46,7 @@ Database developers are responsible for the storage and management of the data w
 - 2020/09/28  The business model has been created.
 
 # 3. Business model
-![Bus Model](https://github.com/Ryvenay/AFP1_kisprojekt/blob/master/Documents/Business%20model.png)
+![Bus Model](https://github.com/Ryvenay/AFP1_kisprojekt/blob/master/Documents/Figures/Business%20model.png)
 
 # 4. Requirements
 ## 4.1 Functional Requirements
@@ -141,7 +141,7 @@ The frontednd uses CSS, HTML codes and using Bootstrap as its framework, which h
         - Posts: Older posts with a picture.
         - Licences, laws, copyright: A small description.
 ### 7.2.1 Home page
-![layoutEdited](https://github.com/Ryvenay/AFP1_kisprojekt/blob/master/Documents/layoutEdited.png)
+![layoutEdited](https://github.com/Ryvenay/AFP1_kisprojekt/blob/master/Documents/Figures/layoutEdited.png)
 
 # 8. Database plan
 
