@@ -46,7 +46,7 @@ Database developers are responsible for the storage and management of the data w
 - 2020/09/28  The business model has been created.
 
 # 3. Business model
-![Bus Model](https://github.com/Ryvenay/AFP1_kisprojekt/blob/master/Documents/Figures/Business_20model.png)
+![Bus Model](https://github.com/Ryvenay/AFP1_kisprojekt/blob/master/Documents/Figures/Business_Model v2.png)
 
 # 4. Requirements
 ## 4.1 Functional Requirements
