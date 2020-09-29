@@ -1,0 +1,6 @@
+CREATE TABLE `miniproject`.`Users` (
+ `id` INT NOT NULL AUTO_INCREMENT , 
+ `username` VARCHAR(25) NOT NULL , 
+ `password` VARCHAR(25) NOT NULL , 
+ `regdate` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP , 
+ PRIMARY KEY (`id`));
