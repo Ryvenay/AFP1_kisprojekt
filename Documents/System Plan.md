@@ -103,6 +103,13 @@ Supported browsers:
 - Can log in to their editor account
 
 ## 5.3 Menu hierarchy
+The menu hierarchy is found in the navigation bar which contains:
+    - Login
+    - Album
+    - Interview
+    - Band
+    - Homepage
+    - About us
 
 # 6. Physical environments
 - This application was made for web platform and should be used with the supported web browsers
