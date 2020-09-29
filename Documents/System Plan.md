@@ -14,13 +14,13 @@ Our team accepted a commission to make a fully functional website for a team of 
 # 2. Project plan
 ## 2.1 Roles and responsibilities
 ### Backend developer:
-Backend developers are responsible for developing the server-side code, and they create the website's functions, and the data structures. They use PHP, HTML, SQL codes.
+Backend developers are responsible for developing the server-side code, they create the website's functions, and the data structures. They mainly use PHP codes.
 
 ### Frontend developer:
 Frontend developers implement the visual elements that users see and interact with in the website. They make sure that users have no trouble navigating the website. They use HTML, CSS, JavaScript codes.
 
 ### Database developer:
-Database developers are responsible for the storage and management of the data we use in this website, and they create the models that we apply for storing data. 
+Database developers are responsible for the storage and management of the data we use in this website, and they create the models that we apply for the data storage. 
 
 ## 2.2 Team members 
 - Nyeste Réka \- Frontend developer
@@ -35,7 +35,7 @@ Database developers are responsible for the storage and management of the data w
 ## 2.3 Project schedule
 - 2020/09/29  System plan document 
 - 2020/09/30  Development start
-- 2020/10/??  Development finish
+- 2020/10/04  Development finish
 - 2020/10/??  Test start
 - 2020/10/??  Test finish
 - 2020/10/??  Review, project finish
@@ -51,10 +51,9 @@ Database developers are responsible for the storage and management of the data w
 # 4. Requirements
 ## 4.1 Functional Requirements
 Using ordinary website elements and user managment system:
-  - Registration panel
-  - Logging in and out
-  - Possibility for password changing
-  - Profile details
+  - **Logging in and out:** Editors should be able to log in and out
+  - **Possibility for password changing:** Editors' passwords should be changeable 
+  - **Profile details:** Editors should be able to see their profile details
 
 Functions for article management:
   - **Article creation page:** Editors should be able to create new articles and post them to the website.
@@ -104,22 +103,22 @@ Supported browsers:
 
 ## 5.3 Menu hierarchy
 The menu hierarchy is found in the navigation bar which contains:
-    - Login
-    - Album
+    - Homepage
+    - Review
     - Interview
     - Band
-    - Homepage
     - About us
+    - Login
 
 # 6. Physical environments
-- This application was made for web platform and should be used with the supported web browsers
+This application was made for web platform and should be used with the supported web browsers
+
 - Softwares and external systems we're working with:
     - Ragic Database System Manager
     - Sublime Text Editor (for PHP)
     - Gitkraken/Github for documentation
     - Trello
     - Visual Studio
-    - Spotify
     - Discord
 - Hardware and Network:
     - General hardware and network requirements
@@ -128,18 +127,21 @@ The menu hierarchy is found in the navigation bar which contains:
     - Visual Studio Code
     - Sublime Text Editor
     - Ragic Database System Manager
-- Framework:
-    - .Net
-    - Bootstrap
+- Technologies:
+    - Bootstrap: Web framework, it is used to make the dynamic layout of the website. It works well with different resolutions and browsers.
+    - Apache: The Apache web server is used to store, process and deliver the webpage to the browsers. 
+    - PHPMyAdmin: Administration tool for MySQL and MariaDB database server, where we store the data of our website, including editors account data and the articles.
+    - MySQL: The database structure will be implemented according to MySQL standards.
+    - PHP: The websties code will be implemented in PHP, which is the most popular way of building website. 
 
 # 7. Architecture plan
 ## 7.1 Backend
- The system needs a database system, in this case the team uses a Visual Studio based client, where we store the user's datas and the articles.
+The system needs a database system, in this case the team uses a Visual Studio based client, where we store the user's datas and the articles.
 Web Client:
-The client is based on HTML, CSS and PHP technologies, which helps the client to be stable. In the other hand we can create creative and spectacular content for our users. 
+The client is based on PHP technologies, which helps the client to be stable. On the other hand we can create creative and spectacular content for our users. Furthermore, it will be used to create the website's functions, handle user data and article content.
 
 ## 7.2 Frontend
-The frontednd uses CSS, HTML codes and using Bootstrap as its framework, which helps to create a modern looking website and works well cross-platform.
+The frontednd uses CSS, HTML and JavaScript codes and using Bootstrap as its framework, which helps to create a modern looking website and works well cross-platform.
 - Layout plan: 
     - Home page: 
         - Title: This is our website's name in middle. We haven't chosen it yet.
