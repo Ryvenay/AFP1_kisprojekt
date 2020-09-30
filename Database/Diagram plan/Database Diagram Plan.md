@@ -1,3 +1,6 @@
+![Diagram](Database_Diagram_Plan.png)
+
+
 Table users{
   id int [pk, increment] 
   username varchar(25) [not null]
@@ -17,7 +20,3 @@ Table articles{
 
 
 Ref: "articles"."author" < "users"."id"
-//--------------------------------------------------
-
-![Diagram](/Database_Diagram_Plan.png)
-Format: ![Alt Text](url)
