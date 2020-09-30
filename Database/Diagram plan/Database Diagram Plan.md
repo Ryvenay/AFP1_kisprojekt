@@ -19,5 +19,5 @@ Table articles{
 Ref: "articles"."author" < "users"."id"
 //--------------------------------------------------
 
-![Diagram](/Database Diagram Plan.png)
+![Diagram](/Database_Diagram_Plan.png)
 Format: ![Alt Text](url)
