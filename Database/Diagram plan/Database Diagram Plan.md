@@ -1,4 +1,4 @@
-<img width=100% src="Database_Diagram_Plan.png">
+<p align="center"><img src="Database_Diagram_Plan.png"></p>
 
 
 Table users{

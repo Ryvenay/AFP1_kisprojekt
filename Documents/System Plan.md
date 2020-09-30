@@ -154,7 +154,9 @@ The frontednd uses CSS, HTML and JavaScript codes and using Bootstrap as its fra
 ![layoutEdited](https://github.com/Ryvenay/AFP1_kisprojekt/blob/master/Documents/Figures/layoutEdited.png)
 
 # 8. Database plan
-<img width=100% src="../Database/Diagram%20plan/Database_Diagram_Plan.png">
+<p align="center">
+<img src="../Database/Diagram%20plan/Database_Diagram_Plan.png">
+</p>
 
 # 9. Implementation plan
 Web:
