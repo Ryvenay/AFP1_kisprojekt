@@ -120,6 +120,7 @@ This application was made for web platform and should be used with the supported
     - Trello
     - Visual Studio
     - Discord
+    - Markdown Monster
 - Hardware and Network:
     - General hardware and network requirements
 - Development tools:
@@ -153,6 +154,7 @@ The frontednd uses CSS, HTML and JavaScript codes and using Bootstrap as its fra
 ![layoutEdited](https://github.com/Ryvenay/AFP1_kisprojekt/blob/master/Documents/Figures/layoutEdited.png)
 
 # 8. Database plan
+<img width=100% src="../Database/Diagram%20plan/Database_Diagram_Plan.png">
 
 # 9. Implementation plan
 Web:
