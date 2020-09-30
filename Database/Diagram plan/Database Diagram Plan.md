@@ -9,7 +9,7 @@ Table users{
 }
 
 Table articles{
-  id int [pk, increment] 
+  id int [pk, increment]
   title varchar(50) [not null]
   content text [not null]
   banner varchar(255) [not null]
@@ -17,6 +17,5 @@ Table articles{
   category varchar(50) [not null]
   regdate timestamp [not null, default: 'now()']
 }
-
 
 Ref: "articles"."author" < "users"."id"
