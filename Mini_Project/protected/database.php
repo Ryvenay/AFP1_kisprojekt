@@ -14,3 +14,13 @@ function getRecord($queryString, $queryParams = []) {
 	$connection = null;
 	return $result;
 }
+
+function getList($queryString, $queryParams = []) {
+	$connection = getConnection();
+	$statement = $connection->prepare($queryString);
+	$success = $statement->execute($queryParams);
+	$result = $success ? $statement->fetchAll(PDO::FETCH_ASSOC) : [];
+	$statement->closeCursor();
+	$connection = null;
+	return $result;
+}
