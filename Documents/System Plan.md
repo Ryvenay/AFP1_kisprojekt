@@ -103,12 +103,12 @@ Supported browsers:
 
 ## 5.3 Menu hierarchy
 The menu hierarchy is found in the navigation bar which contains:
-    - Homepage
-    - Review
-    - Interview
-    - Band
-    - About us
-    - Login
+  - Homepage
+  - Review
+  - Interview
+  - Band
+  - About us
+  - Login
 
 # 6. Physical environments
 This application was made for web platform and should be used with the supported web browsers
