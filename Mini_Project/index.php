@@ -22,6 +22,6 @@
     <navbar><?php require_once PROTECTED_DIR.'navbar.php'; ?></navbar>
     <content><?php require_once PROTECTED_DIR.'routing.php'; ?></content>
     <footer><?php include_once PROTECTED_DIR.'footer.php'; ?></footer>
-      
+    
 </body>
 </html>
