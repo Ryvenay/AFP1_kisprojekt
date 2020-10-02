@@ -1,8 +1,7 @@
 <?php session_start(); ?>
 <?php require_once 'protected/config.php'; ?>
-<?php require_once PROTECTED_DIR.'header.php'; ?>
+
 <?php require_once USER_MANAGER; ?>
-<?php require_once PROTECTED_DIR.'navbar.php'; ?>
 
 <!DOCTYPE html>
 <html>
@@ -19,6 +18,10 @@
 </head>
 
 <body>
+    <header><?php include_once PROTECTED_DIR.'header.php'; ?></header>
+    <navbar><?php require_once PROTECTED_DIR.'navbar.php'; ?></navbar>
+    <content><?php require_once PROTECTED_DIR.'routing.php'; ?></content>
+    <footer><?php include_once PROTECTED_DIR.'footer.php'; ?></footer>
       
 </body>
 </html>
