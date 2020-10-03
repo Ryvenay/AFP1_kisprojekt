@@ -1,5 +1,5 @@
 body{
-	background-image: linear-gradient(#00B7FF, #FFFFC7) !important;
+	background-image: linear-gradient(#38ADAE, #CD295A) !important;
 	margin: auto;
 }
 
@@ -11,4 +11,9 @@ footer{
 
 div.card{
 	margin:auto;
+}
+
+nav{
+	border: 1px black;
+	font-size: 48px;
 }
