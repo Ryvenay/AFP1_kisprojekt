@@ -20,7 +20,13 @@ switch($_GET['P']) {
         require_once PROTECTED_DIR.'normal\other.php';
     break;
 
-    
+    case 'login':
+        require_once USER_DIR.'login.php';
+    break;
+
+    case 'addArticle':
+        require_once USER_DIR.'add_article.php';
+    break;
 
     
 
