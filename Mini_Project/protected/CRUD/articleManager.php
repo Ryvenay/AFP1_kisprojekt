@@ -31,7 +31,7 @@
     }
 
     function getFeaturedArticles() {
-        $query = "SELECT * FROM articels WHERE featured = true";
+        $query = "SELECT * FROM articles WHERE featured = true";
         require_once DATABASE_CONTROLLER;
         return getRecord($query);
     }
