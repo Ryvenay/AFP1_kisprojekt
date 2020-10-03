@@ -1,6 +1,7 @@
 <?php
     function getArticleById($id) {
-        $query = "SELECT * FROM articles WHERE id = :id";
+        $query = "SELECT articles.id, articles.title, articles.content, articles.banner, 
+            users.username, articles.category, articles.genre, articles.create_date, articles.featured FROM articles INNER JOIN users ON articles.author = users.id WHERE id = :id";
         $params = [ ':id' => $id ];
 
         require_once DATABASE_CONTROLLER;
@@ -15,7 +16,9 @@
     }
 
     function getLatestArticles($category) {
-        $query = "SELECT * FROM articles WHERE category = :category ORDER BY create_date LIMIT 4";
+        $query = "SELECT articles.id, articles.title, articles.content, articles.banner, 
+        users.username, articles.category, articles.genre, articles.create_date, articles.featured 
+        FROM articles INNER JOIN users ON articles.author = users.id WHERE category = :category ORDER BY create_date LIMIT 4";
         $params = [ ':category' => $category ];
 
         require_once DATABASE_CONTROLLER;
@@ -23,7 +26,9 @@
     }
 
     function getArticlesByCategory($category) {
-        $query = "SELECT * FROM articles WHERE category = :category";
+        $query = "SELECT articles.id, articles.title, articles.content, articles.banner, 
+        users.username, articles.category, articles.genre, articles.create_date, articles.featured 
+        FROM articles INNER JOIN users ON articles.author = users.id WHERE category = :category";
         $params = [ ':category' => $category ];
 
         require_once DATABASE_CONTROLLER;
@@ -31,7 +36,9 @@
     }
 
     function getFeaturedArticles() {
-        $query = "SELECT * FROM articles WHERE featured = 1";
+        $query = "SELECT articles.id, articles.title, articles.content, articles.banner, 
+        users.username, articles.category, articles.genre, articles.create_date, articles.featured 
+        FROM articles INNER JOIN users ON articles.author = users.id WHERE featured = 1";
         require_once DATABASE_CONTROLLER;
         return getRecord($query);
     }

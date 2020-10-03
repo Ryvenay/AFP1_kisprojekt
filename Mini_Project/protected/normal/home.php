@@ -15,7 +15,7 @@
                     <div class="card-body">
                     <h5 class = "card-title"><?=$a['title']?></h5>
                     <p class="card-text"></p>
-                    <p><?=$a['author']?></p>
+                    <p><?=$a['username']?></p>
                     </div>
                 </div>
             </div>
