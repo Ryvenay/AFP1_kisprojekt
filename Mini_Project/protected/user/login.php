@@ -6,11 +6,11 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['login']))
 
   if(empty($postData['username']) || empty($postData['password']))
   {
-    echo "Hiányzó adatok!";
+    echo "Username or password is missing!";
   }
   else if(!UserLogin($postData['username'], $postData['password']))
   {
-    echo "Hibás email cím vagy jelszó!";
+    echo "Wrong username or password!";
   }
   $postData['password'] = "";
 }
