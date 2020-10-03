@@ -20,7 +20,6 @@
 
         require_once DATABASE_CONTROLLER;
         return getList($query, $params);
-
     }
 
     function getArticlesByCategory($category) {
@@ -29,13 +28,27 @@
 
         require_once DATABASE_CONTROLLER;
         return getRecord($query, $params);
-
     }
 
     function getFeaturedArticles() {
         $query = "SELECT * FROM articels WHERE featured = true";
         require_once DATABASE_CONTROLLER;
         return getRecord($query);
+    }
+
+    function addArticle($title, $content, $banner, $author, $genre, $create_date, $category) {
+        $query = "INSERT INTO articles (title, content, banner, author, genre, category) VALUES :title, :content, :banner, :author, :genre, :category";
+        $params = [
+            ':title' => $title,
+            ':content' => $content,
+            ':banner' => $banner,
+            ':author' => $author,
+            ':genre' => $genre,
+            ':category' => $category
+        ];
+
+        require_once DATABASE_CONTROLLER;
+        return executeDML($query, $params);
     }
 
 
