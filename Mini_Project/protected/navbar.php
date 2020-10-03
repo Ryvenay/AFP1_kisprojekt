@@ -20,4 +20,3 @@
     </ul>
   </div>
 </nav>
-<div style="margin-left:10%">
