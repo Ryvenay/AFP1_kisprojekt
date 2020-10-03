@@ -43,8 +43,8 @@
         return getRecord($query);
     }
 
-    function addArticle($title, $content, $banner, $author, $genre, $create_date, $category, $featured) {
-        $query = "INSERT INTO articles (title, content, banner, author, genre, category, featured) VALUES :title, :content, :banner, :author, :genre, :category, :featured";
+    function addArticle($title, $content, $banner, $author, $genre, $category, $featured) {
+        $query = "INSERT INTO articles (title, content, banner, author, genre, category, featured) VALUES (:title, :content, :banner, :author, :genre, :category, :featured)";
         $params = [
             ':title' => $title,
             ':content' => $content,
@@ -75,7 +75,5 @@
         require_once DATABASE_CONTROLLER;
         return executeDML($query, $params);
     }
-
-
 
 ?>

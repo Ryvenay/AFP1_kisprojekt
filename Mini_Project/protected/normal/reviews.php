@@ -1,5 +1,7 @@
 <?php 
     require_once ARTICLE_MANAGER;
-    $articles = getArticlesByCategory('reviews');
-
+    $articles = getArticlesByCategory('Review');
 ?>
+
+<h1>Reviews</h1>
+
