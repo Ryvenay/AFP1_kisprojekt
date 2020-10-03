@@ -19,14 +19,8 @@
         $params = [ ':category' => $category ];
 
         require_once DATABASE_CONTROLLER;
-        $record = getRecord($query, $params);
+        return getList($query, $params);
 
-        if (empty($record)) {
-            return false;
-        }
-        else {
-            return $record;
-        }
     }
 
     function getArticlesByCategory($category) {
@@ -34,14 +28,14 @@
         $params = [ ':category' => $category ];
 
         require_once DATABASE_CONTROLLER;
-        $record = getRecord($query, $params);
+        return getRecord($query, $params);
 
-        if (empty($record)) {
-            return false;
-        }
-        else {
-            return $record;
-        }
+    }
+
+    function getFeaturedArticles() {
+        $query = "SELECT * FROM articels WHERE featured = true";
+        require_once DATABASE_CONTROLLER;
+        return getRecord($query);
     }
 
 
