@@ -7,8 +7,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['add'])) {
         'author' => $_POST['author'],
         'genre' => $_POST['genre'],
         'category' => $_POST['category'],
-        'featured' => $_POST['featured'],
-
+        'featured' => $_POST['featured']
     ];
 
     if (empty($postData['title']) || empty($postData['content']) || empty($postData['banner']) || empty($postData['author']) || 
