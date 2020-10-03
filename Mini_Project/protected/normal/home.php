@@ -5,16 +5,20 @@
     $latestInterviews = getLatestArticles('interview');
     $latestOther = getLatestArticles('other');
 ?>
-
-<?php foreach($latestReviews as $a) : ?>
-				<div class="container">
-					<div class="card" style="width: 60rem;">
-						<img class="card-img-top" src="<?=$a['banner']?>" alt="Card image cap">
-						<div class="card-body">
-						<p><?=$a['title']?></p>
-						<p class="card-text"><?=$a['content']?></p>
-						<p><?=$a['author']?></p>
-						</div>
-					</div>
-				</div>
-<?php endforeach; ?>
+<div class="container">
+<h2>Latest reviews</h2>
+    <div class = "row">
+        <?php foreach($latestReviews as $a) : ?>
+            <div class = "col-md-3">
+                <div class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="<?=$a['banner']?>" alt="Card image cap">
+                    <div class="card-body">
+                    <h5 class = "card-title"><?=$a['title']?></h5>
+                    <p class="card-text"></p>
+                    <p><?=$a['author']?></p>
+                    </div>
+                </div>
+            </div>
+        <?php endforeach; ?>
+    </div>
+</div>
