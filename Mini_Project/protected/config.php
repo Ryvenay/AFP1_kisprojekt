@@ -5,8 +5,9 @@ define('PROTECTED_DIR', BASE_DIR.'protected/');
 define('CRUD_DIR', PROTECTED_DIR.'CRUD/');
 
 define('DATABASE_CONTROLLER', PROTECTED_DIR.'database.php');
-
 define('ARTICLE_MANAGER', CRUD_DIR.'articleManager.php');
+
+define('USER_MANAGER', PROTECTED_DIR.'userManager.php');
 
 define('DB_TYPE', 'mysql');
 define('DB_HOST', 'localhost');
