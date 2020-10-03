@@ -31,20 +31,21 @@
     }
 
     function getFeaturedArticles() {
-        $query = "SELECT * FROM articles WHERE featured = true";
+        $query = "SELECT * FROM articles WHERE featured = 1";
         require_once DATABASE_CONTROLLER;
         return getRecord($query);
     }
 
-    function addArticle($title, $content, $banner, $author, $genre, $create_date, $category) {
-        $query = "INSERT INTO articles (title, content, banner, author, genre, category) VALUES :title, :content, :banner, :author, :genre, :category";
+    function addArticle($title, $content, $banner, $author, $genre, $create_date, $category, $featured) {
+        $query = "INSERT INTO articles (title, content, banner, author, genre, category, featured) VALUES :title, :content, :banner, :author, :genre, :category, :featured";
         $params = [
             ':title' => $title,
             ':content' => $content,
             ':banner' => $banner,
             ':author' => $author,
             ':genre' => $genre,
-            ':category' => $category
+            ':category' => $category,
+            ':featured' => $featured
         ];
 
         require_once DATABASE_CONTROLLER;

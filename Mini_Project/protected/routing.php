@@ -28,6 +28,4 @@ switch($_GET['P']) {
         require_once USER_DIR.'add_article.php';
     break;
 
-    
-
 }
