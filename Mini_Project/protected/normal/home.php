@@ -21,5 +21,6 @@
             </div>
         <?php endforeach; ?>
     </div>
-    <a href=#>See more...</a>
+    <a href="index.php?P=reviews">See more...</a>
+    
 </div>

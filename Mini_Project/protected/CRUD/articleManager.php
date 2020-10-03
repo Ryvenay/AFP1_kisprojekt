@@ -1,7 +1,7 @@
 <?php
     function getArticleById($id) {
         $query = "SELECT articles.id, articles.title, articles.content, articles.banner, 
-            users.username, articles.category, articles.genre, articles.create_date, articles.featured FROM articles INNER JOIN users ON articles.author = users.id WHERE id = :id";
+            users.username, articles.category, articles.genre, articles.create_date, articles.featured FROM articles INNER JOIN users ON articles.author = users.id WHERE articles.id = :id";
         $params = [ ':id' => $id ];
 
         require_once DATABASE_CONTROLLER;

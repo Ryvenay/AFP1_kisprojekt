@@ -5,19 +5,19 @@ if (!array_key_exists('P', $_GET) || empty($_GET['P'])) {
 
 switch($_GET['P']) {
     case 'home':
-        require_once PROTECTED_DIR.'normal\home.php';
+        require_once NORMAL_DIR.'home.php';
     break;
 
     case 'reviews':
-        require_once PROTECTED_DIR.'normal\reviews.php';
+        require_once NORMAL_DIR.'reviews.php';
     break;
 
     case 'interviews':
-        require_once PROTECTED_DIR.'normal\interviews.php';
+        require_once NORMAL_DIR.'interviews.php';
     break;
 
     case 'other':
-        require_once PROTECTED_DIR.'normal\other.php';
+        require_once NORMAL_DIR.'other.php';
     break;
 
     case 'login':
@@ -30,6 +30,15 @@ switch($_GET['P']) {
 	
 	case 'logout':
 		IsUserLoggedIn() ? UserLogout(): header('Location: index.php');
-	break;
+    break;
+
+    case 'article':
+        require_once NORMAL_DIR.'article.php';
+    break;
+    
+    case '404':
+        require_once NORMAL_DIR.'404.php';
+    break;
+
 
 }
