@@ -1,9 +1,9 @@
 <?php 
     if (!array_key_exists('A', $_GET) || empty($_GET['A'])) { //A is the ID of the article
-        $_GET['P'] = 'home';
+        header('Location: index.php');
     }
     else if(!is_numeric($_GET['A'])) {
-        $_GET['P'] = '404';
+        header('Location: index.php?P=404');
     }
     else {
         require_once ARTICLE_MANAGER;

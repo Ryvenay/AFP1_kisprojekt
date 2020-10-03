@@ -10,14 +10,16 @@
     <div class = "row">
         <?php foreach($latestReviews as $a) : ?>
             <div class = "col">
-                <div class="card" style="width: 15rem;">
-                    <img class="card-img-top" src="<?=$a['banner']?>" alt="Card image cap">
-                    <div class="card-body">
-                    <h5 class = "card-title"><?=$a['title']?></h5>
-                    <p class="card-text"></p>
-                    <p><?=$a['username']?></p>
+                <a href="index.php?P=article&A=<?=$a['id']; ?>">
+                    <div class="card" style="width: 15rem;">
+                        <img class="card-img-top" src="<?=$a['banner']?>" alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class = "card-title"><?=$a['title']?></h5>
+                            <p class="card-text"></p>
+                            <p><?=$a['username']?></p>
+                        </div>
                     </div>
-                </div>
+                </a>
             </div>
         <?php endforeach; ?>
     </div>
