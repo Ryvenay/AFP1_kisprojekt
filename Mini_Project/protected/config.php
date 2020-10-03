@@ -2,8 +2,11 @@
 define('BASE_DIR', './');
 define('PUBLIC_DIR', BASE_DIR.'public/');
 define('PROTECTED_DIR', BASE_DIR.'protected/');
+define('CRUD_DIR', PROTECTED_DIR.'CRUD/');
 
 define('DATABASE_CONTROLLER', PROTECTED_DIR.'database.php');
+
+define('ARTICLE_MANAGER', CRUD_DIR.'articleManager.php');
 
 define('DB_TYPE', 'mysql');
 define('DB_HOST', 'localhost');
