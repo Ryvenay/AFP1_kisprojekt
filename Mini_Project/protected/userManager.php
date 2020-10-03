@@ -11,7 +11,7 @@ function UserLogout()
 	header('Location: index.php');
 }
 
-function UserLogin($email, $password)
+function UserLogin($username, $password)
 {
 	$query = "SELECT id, username FROM users WHERE username = :username AND password = :password";
 	$params =
