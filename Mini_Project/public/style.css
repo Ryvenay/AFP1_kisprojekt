@@ -1,4 +1,14 @@
-.container{
-	display: flex;
-	align-items: row;
+body{
+	background-image: linear-gradient(#00B7FF, #FFFFC7) !important;
+	margin: auto;
+}
+
+footer{
+	margin: auto;
+	text-align: center;
+	
+}
+
+div.card{
+	margin:auto;
 }
