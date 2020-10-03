@@ -9,7 +9,7 @@
     <h2>Latest reviews</h2>
     <div class = "row">
         <?php foreach($latestReviews as $a) : ?>
-            <div class = "col col-md-3 ">
+            <div class = "col">
                 <div class="card" style="width: 15rem;">
                     <img class="card-img-top" src="<?=$a['banner']?>" alt="Card image cap">
                     <div class="card-body">
@@ -21,4 +21,5 @@
             </div>
         <?php endforeach; ?>
     </div>
+    <a href=#>See more...</a>
 </div>
