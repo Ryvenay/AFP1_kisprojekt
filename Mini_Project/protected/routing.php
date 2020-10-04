@@ -44,5 +44,8 @@ switch($_GET['P']) {
         require_once NORMAL_DIR.'404.php';
     break;
 
+    case 'about_us':
+        require_once NORMAL_DIR.'about_us.php';
+    break;
 
 }
