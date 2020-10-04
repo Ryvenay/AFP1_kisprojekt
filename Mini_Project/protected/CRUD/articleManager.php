@@ -59,7 +59,7 @@
         return executeDML($query, $params);
     }
 
-    function editArticle($id, $title, $content, $banner, $author, $genre, $create_date, $category, $featured) {
+    function editArticle($id, $title, $content, $banner, $author, $genre, $category, $featured) {
         $query = "UPDATE articles SET title = :title, content = :content, banner = :banner, author = :author, genre = :genre, category = :category, featured = :featured WHERE id = :id";
         $params = [
             ':id' => $id,

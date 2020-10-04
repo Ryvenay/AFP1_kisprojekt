@@ -1,10 +1,10 @@
 <?php 
 if($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['add'])) {
-    if(array_key_exists('Featured', $_POST) && $_POST['featured'] == "on") {
-        $featured = 1;
+    if(array_key_exists('featured', $_POST) && $_POST['featured'] == "on") {
+        $featured = true;
     }
     else {
-        $featured = 0;
+        $featured = false;
     }
     $postData = [
         'title' => $_POST['title'],
@@ -16,7 +16,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['add'])) {
         'featured' => $featured
     ];
 
-    if (empty($postData['title']) || empty($postData['content']) || empty($postData['banner']) || empty($postData['author']) || 
+    if (empty($postData['title']) ||$postData['title']) || empty($postData['content']) || empty($postData['banner']) || empty($postData['author']) || 
         empty($postData['genre']) || empty($postData['category'])) {
         
         echo '<div class="alert alert-primary" role="alert">Missing data!</div>';
@@ -24,7 +24,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['add'])) {
     else if(!is_numeric($postData['author'])) {
         echo '<div class="alert alert-primary" role="alert">Incorrect author</div>';
     }
-    else if($postData['featured'] != 0 && $postData['featured'] != 1) {
+    else if($postData['featured'] != false && $postData['featured'] != true) {
         echo '<div class="alert alert-primary" role="alert">Incorrect featured data</div>';
     }
     else {
@@ -80,7 +80,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['add'])) {
     <div class = "form-row justify-content-md-center">
         <div class = "form-group col-md-1">
             <div class="form-check">
-                <input class="form-check-input" type="checkbox" id="articleFeatured" value="<?=isset($postData) ? $postData['title'] : "";?>">
+                <input class="form-check-input" type="checkbox" name="featured" id="articleFeatured" value="on" <?=isset($postData) ? ($postData['featured'] == true ? "checked" : "") : "";?>>
                 <label class="form-check-label" for="articleFeatured">Featured</label>
             </div>
         </div>

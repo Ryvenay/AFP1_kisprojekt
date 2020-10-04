@@ -27,6 +27,10 @@ switch($_GET['P']) {
     case 'addArticle':
         require_once USER_DIR.'add_article.php';
     break;
+
+    case 'editArticle':
+        require_once USER_DIR.'edit_article.php';
+    break;
 	
 	case 'logout':
 		IsUserLoggedIn() ? UserLogout(): header('Location: index.php');
