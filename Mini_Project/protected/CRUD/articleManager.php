@@ -76,4 +76,12 @@
         return executeDML($query, $params);
     }
 
+    function deleteArticle($id) {
+        $query = "DELETE FROM articles WHERE id = :id";
+        $params = [ ':id' => $id ];
+
+        require_once DATABASE_CONTROLLER;
+        return executeDML($query, $params);
+    }
+
 ?>

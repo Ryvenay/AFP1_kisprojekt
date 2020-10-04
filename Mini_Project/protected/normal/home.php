@@ -5,6 +5,12 @@
     $latestInterviews = getLatestArticles('interview');
     $latestOther = getLatestArticles('other');
 ?>
+
+<?php 
+    if (array_key_exists('D', $_GET) && !empty($_GET['D']) && $_GET[''] == "success") {
+        echo '<div class="alert alert-success" role="alert">Delete successfull!</div>';
+    }
+?>
 <div class="container">
     <h2>Latest reviews</h2>
     <div class = "row">
