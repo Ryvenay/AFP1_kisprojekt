@@ -38,9 +38,9 @@
     function getFeaturedArticles() {
         $query = "SELECT articles.id, articles.title, articles.content, articles.banner, 
         users.username, articles.category, articles.genre, articles.create_date, articles.featured 
-        FROM articles INNER JOIN users ON articles.author = users.id WHERE featured = 1";
+        FROM articles INNER JOIN users ON articles.author = users.id WHERE featured = true";
         require_once DATABASE_CONTROLLER;
-        return getRecord($query);
+        return getList($query);
     }
 
     function addArticle($title, $content, $banner, $author, $genre, $category, $featured) {
