@@ -5,7 +5,7 @@
         $params = [ ':id' => $id ];
 
         require_once DATABASE_CONTROLLER;
-        $record = getList($query, $params);
+        $record = getRecord($query, $params);
 
         if (empty($record)) {
             return false;
@@ -32,7 +32,7 @@
         $params = [ ':category' => $category ];
 
         require_once DATABASE_CONTROLLER;
-        return getRecord($query, $params);
+        return getList($query, $params);
     }
 
     function getFeaturedArticles() {
