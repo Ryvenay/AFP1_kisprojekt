@@ -23,3 +23,13 @@ All the feature of the website which were defined in music and reviews.
 * Youtube link Test
 * Add Article page Test
 * Logout Test
+
+
+
+### Quality Objective
+
+We must make sure:
+
+	-Ensure the Application Under Test conforms to functional and non-functional requirements
+	-Ensure the AUT meets the quality specifications defined by the client
+	-Bugs/issues are identified and fixed before go live
