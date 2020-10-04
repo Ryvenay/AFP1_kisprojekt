@@ -69,3 +69,10 @@ Links to be checked will include:
 -- Checking for Syntax Errors
 -- Readable Color Schemas
 -- Standard Compliance. Ensure standards are followed.
+
+###	Usability Testing
+
+Test the site Navigation:
+- Menus, buttons or Links to different pages on your site should be easily visible and consistent on all webpages
+
+
