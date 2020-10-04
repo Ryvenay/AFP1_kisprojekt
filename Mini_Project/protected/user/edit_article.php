@@ -100,7 +100,8 @@
     <div class = "form-row justify-content-md-center">
         <div class = "form-group col-md-9">
             <label for="articleContent">Article:</label>
-            <textarea class="form-control" id="articleContent" rows="30" name="content" required><?=isset($postData) ? $postData['content'] : ""; ?></textarea>
+            <!--textarea class="form-control" id="articleContent" rows="30" name="content" required--><!--?=isset($postData) ? $postData['content'] : ""; ?--><!--/textarea-->
+            <?php require_once("protected/components/tinymce.php"); ?>
         </div>
     </div>
     <div class = "form-row justify-content-md-center">
