@@ -75,4 +75,16 @@ Links to be checked will include:
 Test the site Navigation:
 - Menus, buttons or Links to different pages on your site should be easily visible and consistent on all webpages
 
+###	Interface Testing
+
+Three areas to be tested here are - Web and Database Server
+
+- Web Server: Test Web server is handling all application requests without any service denial.
+
+- Database Server: Make sure queries sent to the database give expected results.
+
+- Errors: Test system response when connection between the layers (Web and Database) cannot be established and appropriate message is shown to the end user.
+
+
+
 
