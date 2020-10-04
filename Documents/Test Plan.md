@@ -94,6 +94,14 @@ Database is one critical component the web application and stress must be laid t
 - Check response time of queries and fine tune them if necessary.
 - Test data retrieved from your database is shown accurately in your web page
 
+###	Compatibility Testing
+
+Compatibility tests ensures that your web page displays correctly across different devices. This includes:
+
+- Browser Compatibility Test: Same website in different browsers will display differently. We need to test if the web application is being displayed correctly across browsers, JavaScript, AJAX and authentication is working fine. It is also mandatory to check for Mobile Browser Compatibility.
+
+- The rendering of web elements like buttons, text fields etc. changes with change in Operating System. We must make sure the website works fine for various combination of Operating systems such as Windows, Linux, Mac and Browsers such as Firefox, Internet Explorer, Safari etc.
+
 
 
 
