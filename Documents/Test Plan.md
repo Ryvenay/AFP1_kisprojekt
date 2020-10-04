@@ -9,20 +9,6 @@ The plan is to identify the items, that need to be tested, the features to be te
 
 All the feature of the website which were defined in music and reviews.
 
-# Test methods  
-  
-* Database Import
-* Database Reach
-* Logout Reach
-* Carousel Test
-* Review page Test
-* Interview page Test
-* Other page Test
-* About us page Test
-* Spotify link Test
-* Youtube link Test
-* Add Article page Test
-* Logout Test
 
 
 
@@ -42,3 +28,25 @@ Testing will be executed by:
 	-Nagy Zoltán: responsible for UI/UX testing
 	-Csanádi Balázs Tóbiás: responsible for test documentations
 	-Fügedi Csaba: Test manager, responsible for DB testing
+	
+# Test Methodology
+
+## Test methods  
+  
+* Database Import
+* Database Reach
+* Logout Reach
+* Carousel Test
+* Review page Test
+* Interview page Test
+* Other page Test
+* About us page Test
+* Spotify link Test
+* Youtube link Test
+* Add Article page Test
+* Logout Test
+
+## Overview
+
+As our development process will follow the scrum method, therefore we adjusted our testing cycles to this. Every week is a new sprint, and we test every module right after implementation. This means we execute tests and write testing documents and reports near the end of the current sprint.
+
