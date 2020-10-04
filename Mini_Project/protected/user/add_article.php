@@ -16,7 +16,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['add'])) {
         'featured' => $featured
     ];
 
-    if (empty($postData['title']) ||$postData['title']) || empty($postData['content']) || empty($postData['banner']) || empty($postData['author']) || 
+    if (empty($postData['title']) || $postData['title'] || empty($postData['content']) || empty($postData['banner']) || empty($postData['author']) || 
         empty($postData['genre']) || empty($postData['category'])) {
         
         echo '<div class="alert alert-primary" role="alert">Missing data!</div>';
@@ -74,7 +74,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['add'])) {
     <div class = "form-row justify-content-md-center">
         <div class = "form-group col-md-9">
             <label for="articleContent">Article:</label>
-            <textarea class="form-control" id="articleContent" rows="3" name="content" required><?=isset($postData) ? $postData['content'] : ""; ?></textarea>
+            <textarea class="form-control" id="articleContent" rows="30" name="content" required><?=isset($postData) ? $postData['content'] : ""; ?></textarea>
         </div>
     </div>
     <div class = "form-row justify-content-md-center">
