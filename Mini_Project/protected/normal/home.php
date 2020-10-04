@@ -11,6 +11,15 @@
         echo '<div class="alert alert-success" role="alert">Delete successfull!</div>';
     }
 ?>
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
 
 <div class="carousel-inner">
 	<?php foreach ($featured as $f): ?>
