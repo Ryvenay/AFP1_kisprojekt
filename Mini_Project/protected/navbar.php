@@ -23,7 +23,7 @@
       </li>
 	  <?php if(IsUserLoggedIn()) :?>
 		<li class="nav-item">
-			<a class="navbar-brand" href="index.php?P=add_article">Add Article</a>
+			<a class="navbar-brand" href="index.php?P=addArticle">Add Article</a>
 		</li>
 		<li class="nav-item active">
 			<a class="navbar-brand" href="index.php?P=logout">Logout<span class="sr-only">(current)</span></a>
