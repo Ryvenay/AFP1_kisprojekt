@@ -1,29 +1,41 @@
 body{
 	/*background-image: linear-gradient(#38ADAE, #CD295A) !important; */
 	margin: auto;
+	font-family: Arial;
 }
 
 footer{
 	margin: auto;
 	text-align: center;
+	font-family: Arial;
 	
 }
 
 div.card{
 	margin:auto;
+	font-family: Arial;
 }
 
 nav{
 	border: 1px black;
 	font-size: 48px;
+	font-family: Arial;
 }
 
 footer img {
 	max-width: 100px;
 	max-height: 100px;
+	font-family: Arial;
 }
 
 #carousel img {
 	max-height: 600px;
 	object-fit: cover;
+	font-family: Arial;
+}
+p {
+	text-align: center;
+	margin-left: 400px;
+	margin-right: 400px;
+	font-family: Arial;
 }
