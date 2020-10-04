@@ -85,6 +85,15 @@ Three areas to be tested here are - Web and Database Server
 
 - Errors: Test system response when connection between the layers (Web and Database) cannot be established and appropriate message is shown to the end user.
 
+###	Database Testing
+
+Database is one critical component the web application and stress must be laid to test it thoroughly. Testing activities will include:
+- Test if any errors are shown while executing queries
+- Data Integrity is maintained while creating, updating or deleting data in database.
+
+- Check response time of queries and fine tune them if necessary.
+- Test data retrieved from your database is shown accurately in your web page
+
 
 
 
