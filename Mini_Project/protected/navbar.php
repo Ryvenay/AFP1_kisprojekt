@@ -19,10 +19,10 @@
         <a class="navbar-brand" href="index.php?P=interviews">Interviews</a>
       </li>
       <li class="nav-item">
-        <a class="navbar-brand" href="index.php?P=about_us">About us</a>
+        <a class="navbar-brand" href="index.php?P=other">Other</a>
       </li>
       <li class="nav-item">
-        <a class="navbar-brand" href="index.php?P=other">Other</a>
+        <a class="navbar-brand" href="index.php?P=about_us">About us</a>
       </li>
 	  <?php if(IsUserLoggedIn()) :?>
 		<li class="nav-item">
