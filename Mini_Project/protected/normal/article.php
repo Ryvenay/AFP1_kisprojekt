@@ -31,6 +31,8 @@
     <div class="alert alert-primary" role="alert">Article not found!</div>
 <?php else: ?>
     <h1><?=$article['title']; ?></h1>
+	<hr>
     <!--Here is the article-->
+	<p><?php echo($article['content'])?></p>
 
 <?php endif; ?>
