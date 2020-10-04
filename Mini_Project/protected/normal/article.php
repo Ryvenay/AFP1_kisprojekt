@@ -23,7 +23,6 @@
                 header('Location: index.php?P=home&D=success');
             }
         }
-
     }
 ?>
 

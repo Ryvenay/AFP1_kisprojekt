@@ -22,3 +22,8 @@ footer img {
 	max-width: 100px;
 	max-height: 100px;
 }
+
+#carousel img {
+	max-height: 200px;
+	object-fit: cover;
+}
