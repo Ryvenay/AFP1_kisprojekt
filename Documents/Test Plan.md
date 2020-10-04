@@ -7,7 +7,7 @@ The plan is to identify the items, that need to be tested, the features to be te
 
 ### Scope
 
-All the feature of the website which were defined in music and reviews.
+All the feature of the website which were defined in music and reviews. :D
 
 # Test methods  
   
