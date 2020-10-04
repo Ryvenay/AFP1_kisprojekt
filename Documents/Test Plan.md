@@ -50,3 +50,22 @@ Testing will be executed by:
 
 As our development process will follow the scrum method, therefore we adjusted our testing cycles to this. Every week is a new sprint, and we test every module right after implementation. This means we execute tests and write testing documents and reports near the end of the current sprint.
 
+###	Functionality testing:
+
+This is used to check if your product is as per the specifications you intended for it as well as the functional requirements charted out in developmental documentation. Testing Activities includes:
+- Test all links in webpages are working correctly and make sure there are no broken links.
+
+Links to be checked will include:
+- Outgoing links
+- Internal links
+- Anchor links
+- Test Forms are working as expected. This will include:
+-- Scripting checks on the form are working as expected. (For example: if a user does not fill a mandatory field in a form an error message is shown.)
+-- Check default values are being populated
+-- Once submitted, the data in the forms is submitted to a live database or is linked to a working email address
+-- Forms are optimally formatted for better readability
+
+- Test HTML and CSS to ensure that search engines can check the site easily. This will include:
+-- Checking for Syntax Errors
+-- Readable Color Schemas
+-- Standard Compliance. Ensure standards are followed.
