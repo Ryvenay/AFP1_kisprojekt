@@ -16,7 +16,7 @@ Table users{
 
 Table articles{
 
-  id int [pk, increment]
+  id int [pk, increment] 
   
   title varchar(50) [not null]
   
@@ -28,7 +28,11 @@ Table articles{
   
   category varchar(50) [not null]
   
+  genre varchar(255) [not null]
+  
   regdate timestamp [not null, default: 'now()']
+  
+  featured bit(1) 
   
 }
 
