@@ -16,7 +16,7 @@ function UserLogin($username, $password)
 	$query = "SELECT id, username FROM users WHERE username = :username AND password = :password";
 	$params =
 	[ ':username' => $username,
-	  ':password' => $password];
+	  ':password' => sha1($password]);
 	require_once DATABASE_CONTROLLER;
 	$record = getRecord($query, $params);
 	if(!empty($record))
