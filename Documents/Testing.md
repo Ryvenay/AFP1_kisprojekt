@@ -14,7 +14,7 @@
 | Logout Reach | Csanádi Balázs Tóbiás | 18:45, 05. October 2020 | Yes |
 | Carousel Test | Nagy Zoltán | 18:40, 05. October 2020 | Yes |
 | Carousel Test | Fügedi Csaba | 18:12, 05. October 2020 | Yes |
-| Carousel Test | Nyeste Réka |  |  |
+| Carousel Test | Nyeste Réka | 18:30 | 05. Octorber 2020 | Yes |
 | Carousel Test | Csanádi Balázs Tóbiás | 18:49, 05. October 2020 | Yes |
 | Review page Test | Nagy Zoltán | 18:40, 05 October 2020 | Yes |
 | Review page Test | Fügedi Csaba | 18:25, 05. October 2020 | Yes |
