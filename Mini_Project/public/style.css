@@ -53,3 +53,7 @@ h1.articlehead{
 	margin-bottom: 20px;
 	text-align: center;
 }
+.bannersize{
+	width: 400px;
+	height: auto;
+}

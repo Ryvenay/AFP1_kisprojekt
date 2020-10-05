@@ -44,7 +44,7 @@
 	<?php endif;?>
 </div>
 	<div class="col-md-6">
-		 <img src="<?=$article['banner']?>"></img>
+		 <img class="bannersize"src="<?=$article['banner']?>"></img>
 	</div>
 </div>
 	
