@@ -46,7 +46,7 @@
 | Add Article page Test | Csanádi Balázs Tóbiás |  |  |
 | Logout Test | Nagy Zoltán | 19:10, 05. October 2020 | Yes |
 | Logout Test | Fügedi Csaba | 18:55, 05. October 2020 | Yes |
-| Logout Test | Nyeste Réka |  |  |
+| Logout Test | Nyeste Réka | 19:10 | 05. Octorber 2020 | Yes |
 | Logout Test | Csanádi Balázs Tóbiás |  |  |
 
 
