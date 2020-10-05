@@ -127,5 +127,20 @@ The following tool will be used for testing: (all included in “tests” folder
 * Database testing: various PHP scripts, Phpmyadmin
 * Compatibility testing: Browser
 
+### Terms and Acronyms
+
+Terms and acronyms used in the project
+
+|TERM/ACRONYM                          | DEFINITION                       |
+|-------------------------------|-----------------------------|
+|   API | Application Program Interface|
+| AUT |  Application Under Test |
+| DB | Database |
+| BE | Back end, during development mostly used to refer to PHP codes |
+| FE | Front end, during development mostly used to refer to the HTML and/or CSS code |
+| JS | JavaScript |
+| SYS | System plan |
+| RQ | Requirements specification |
+| FQ/FUNC | Functional specification | 
 
 
