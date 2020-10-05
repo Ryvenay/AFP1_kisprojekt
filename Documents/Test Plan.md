@@ -124,3 +124,6 @@ The following tool will be used for testing: (all included in “tests” folder
 * Interface testing: Browser
 * Database testing: various PHP scripts, Phpmyadmin
 * Compatibility testing: Browser
+
+## Testing Tools
+
