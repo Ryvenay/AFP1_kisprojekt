@@ -1,6 +1,6 @@
 | Modul | Name | Time | Is it working correctly? |
 |-------|------|------|--------------------------|
-| Database Import| Nagy Zoltán | 12:25, 03. October 2020 | Yes |
+| Database Import| Nagy Zoltán | 12:25, 03. October 2020 |<span style="color: green"> Yes </span> |
 | Database Import| Fügedi Csaba | 15:25, 03. October 2020 | Yes |
 | Database Import| Nyeste Réka |  |  |
 | Database Import| Csanádi Balázs Tóbiás |  |  |
