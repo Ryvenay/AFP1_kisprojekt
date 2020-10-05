@@ -16,7 +16,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['add'])) {
         'featured' => $featured
     ];
 
-    if (empty($postData['title']) || $postData['title'] || empty($postData['content']) || empty($postData['banner']) || empty($postData['author']) || 
+    if (empty($postData['title']) || empty($postData['content']) || empty($postData['banner']) || empty($postData['author']) || 
         empty($postData['genre']) || empty($postData['category'])) {
         
         echo '<div class="alert alert-primary" role="alert">Missing data!</div>';
