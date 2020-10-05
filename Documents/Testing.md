@@ -1,18 +1,15 @@
 | Modul | Name | Time | Is it working correctly? |
 |-------|------|------|--------------------------|
-| Database Import| Nagy Zoltán | 12:25, 03. October 2020 | <div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
- |
+| Database Import| Nagy Zoltán | 12:25, 03. October 2020 | Yes |
 | Database Import| Fügedi Csaba | 15:25, 03. October 2020 | Yes |
 | Database Import| Nyeste Réka |  |  |
 | Database Import| Csanádi Balázs Tóbiás |  |  |
 | Database Reach | Nagy Zoltán |  |  |
-| Database Reach | Fügedi Csaba |  |  |
+| Database Reach | Fügedi Csaba | 17:57, 05. October 2020 | Yes |
 | Database Reach | Nyeste Réka |  |  |
 | Database Reach | Csanádi Balázs Tóbiás |  |  |
 | Logout Reach | Nagy Zoltán |  |  |
-| Logout Reach | Fügedi Csaba |  |  |
+| Logout Reach | Fügedi Csaba | 17:58, 05. October 2020 | Yes |
 | Logout Reach | Nyeste Réka |  |  |
 | Logout Reach | Csanádi Balázs Tóbiás |  |  |
 | Carousel Test | Nagy Zoltán |  |  |
