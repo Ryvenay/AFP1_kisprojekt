@@ -42,7 +42,7 @@
 | Youtube link Test | Csanádi Balázs Tóbiás |  |  |
 | Add Article page Test | Nagy Zoltán | 19:10, 05. October 2020 | Yes |
 | Add Article page Test | Fügedi Csaba | 18:51, 05. October 2020 | Yes |
-| Add Article page Test | Nyeste Réka |  |  |
+| Add Article page Test | Nyeste Réka | 19:27 | 05. Octorber 2020 | Yes |
 | Add Article page Test | Csanádi Balázs Tóbiás |  |  |
 | Logout Test | Nagy Zoltán | 19:10, 05. October 2020 | Yes |
 | Logout Test | Fügedi Csaba | 18:55, 05. October 2020 | Yes |
