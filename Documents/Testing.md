@@ -34,7 +34,7 @@
 | About us page Test | Csanádi Balázs Tóbiás | 19:17, 05. October 2020 | Yes |
 | Spotify link Test | Nagy Zoltán | 19:01, 05. October 2020 | Yes |
 | Spotify link Test | Fügedi Csaba | 18:43, 05. October 2020 | Yes |
-| Spotify link Test | Nyeste Réka |  |  |
+| Spotify link Test | Nyeste Réka | 19:25 | 05. Octorber 2020 | Yes |
 | Spotify link Test | Csanádi Balázs Tóbiás | 19:18, 05. October 2020 | Yes |
 | Youtube link Test | Nagy Zoltán | 19:01, 05. October 2020 | Yes |
 | Youtube link Test | Fügedi Csaba | 18:45, 05. October 2020 | Yes |
