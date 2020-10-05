@@ -27,7 +27,7 @@
         }
     }
 ?>
-
+<hr>
 <?php if ($article == false): ?> 
     <?=$_GET['A']; ?>
     <div class="alert alert-primary" role="alert">Article not found!</div>
