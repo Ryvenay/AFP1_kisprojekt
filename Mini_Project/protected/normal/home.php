@@ -7,7 +7,7 @@
 ?>
 
 <?php 
-    if (array_key_exists('D', $_GET) && !empty($_GET['D']) && $_GET[''] == "success") {
+    if (array_key_exists('D', $_GET) && !empty($_GET['D']) && $_GET['D'] == "success") {
         echo '<div class="alert alert-success" role="alert">Delete successfull!</div>';
     }
 ?>
