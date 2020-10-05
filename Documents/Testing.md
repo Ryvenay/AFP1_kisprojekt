@@ -4,7 +4,7 @@
 | Database Import| Fügedi Csaba | 15:25, 03. October 2020 | Yes |
 | Database Import| Nyeste Réka |  |  |
 | Database Import| Csanádi Balázs Tóbiás |  |  |
-| Database Reach | Nagy Zoltán |  |  |
+| Database Reach | Nagy Zoltán | 18:31, 05. October 2020 | Yes |
 | Database Reach | Fügedi Csaba | 17:57, 05. October 2020 | Yes |
 | Database Reach | Nyeste Réka |  |  |
 | Database Reach | Csanádi Balázs Tóbiás |  |  |
