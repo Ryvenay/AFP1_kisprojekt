@@ -12,23 +12,23 @@
 | Logout Reach | Fügedi Csaba | 17:58, 05. October 2020 | Yes |
 | Logout Reach | Nyeste Réka |  |  |
 | Logout Reach | Csanádi Balázs Tóbiás |  |  |
-| Carousel Test | Nagy Zoltán |  |  |
+| Carousel Test | Nagy Zoltán | 18:40, 05. October 2020 | Yes |
 | Carousel Test | Fügedi Csaba |  |  |
 | Carousel Test | Nyeste Réka |  |  |
 | Carousel Test | Csanádi Balázs Tóbiás |  |  |
-| Review page Test | Nagy Zoltán |  |  |
+| Review page Test | Nagy Zoltán | 18:40, 05 October 2020 | Yes |
 | Review page Test | Fügedi Csaba |  |  |
 | Review page Test | Nyeste Réka |  |  |
 | Review page Test | Csanádi Balázs Tóbiás |  |  |
-| Interview page Test | Nagy Zoltán |  |  |
+| Interview page Test | Nagy Zoltán | 18:40, 05 October 2020 | Yes |
 | Interview page Test | Fügedi Csaba |  |  |
 | Interview page Test | Nyeste Réka |  |  |
 | Interview page Test | Csanádi Balázs Tóbiás |  |  |
-| Other page Test | Nagy Zoltán |  |  |
+| Other page Test | Nagy Zoltán | 18:40, 05 October 2020 | Yes |
 | Other page Test | Fügedi Csaba |  |  |
 | Other page Test | Nyeste Réka |  |  |
 | Other page Test | Csanádi Balázs Tóbiás |  |  |
-| About us page Test | Nagy Zoltán |  |  |
+| About us page Test | Nagy Zoltán | 18:40, 05 October 2020 | Yes |
 | About us page Test | Fügedi Csaba |  |  |
 | About us page Test | Nyeste Réka |  |  |
 | About us page Test | Csanádi Balázs Tóbiás |  |  |
