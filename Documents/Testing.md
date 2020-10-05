@@ -7,11 +7,11 @@
 | Database Reach | Nagy Zoltán | 18:31, 05. October 2020 | Yes |
 | Database Reach | Fügedi Csaba | 17:57, 05. October 2020 | Yes |
 | Database Reach | Nyeste Réka |  |  |
-| Database Reach | Csanádi Balázs Tóbiás |  |  |
+| Database Reach | Csanádi Balázs Tóbiás | 18:50, 05. October 2020 | Yes |
 | Logout Reach | Nagy Zoltán | 18:37, 05. October 2020 | Yes |
 | Logout Reach | Fügedi Csaba | 17:58, 05. October 2020 | Yes |
 | Logout Reach | Nyeste Réka |  |  |
-| Logout Reach | Csanádi Balázs Tóbiás |  |  |
+| Logout Reach | Csanádi Balázs Tóbiás | 18:45, 05. October 2020 | Yes |
 | Carousel Test | Nagy Zoltán | 18:40, 05. October 2020 | Yes |
 | Carousel Test | Fügedi Csaba | 18:12, 05. October 2020 | Yes |
 | Carousel Test | Nyeste Réka |  |  |
