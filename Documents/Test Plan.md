@@ -117,6 +117,8 @@ The following documents are needed to be delivered during test lifecycle:
 
 ## Resource and Enviroment Needs
 
+### Testing Tools
+
 The following tool will be used for testing: (all included in “tests” folder)
 
 * Functional testing: Browser
@@ -125,5 +127,5 @@ The following tool will be used for testing: (all included in “tests” folder
 * Database testing: various PHP scripts, Phpmyadmin
 * Compatibility testing: Browser
 
-## Testing Tools
+
 
