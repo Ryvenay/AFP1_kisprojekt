@@ -2,7 +2,7 @@
 |-------|------|------|--------------------------|
 | Database Import| Nagy Zoltán | 12:25, 03. October 2020 | Yes |
 | Database Import| Fügedi Csaba | 15:25, 03. October 2020 | Yes |
-| Database Import| Nyeste Réka |  |  |
+| Database Import| Nyeste Réka | 16:40 | 03. Octorber 2020 | Yes |
 | Database Import| Csanádi Balázs Tóbiás | 18:40, 05. October 2020 | Yes |
 | Database Reach | Nagy Zoltán | 18:31, 05. October 2020 | Yes |
 | Database Reach | Fügedi Csaba | 17:57, 05. October 2020 | Yes |
