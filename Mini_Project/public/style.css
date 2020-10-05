@@ -51,3 +51,8 @@ h1.articlehead{
 	visibility:20%;
 	color: gray;
 }
+.hdTitle {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}

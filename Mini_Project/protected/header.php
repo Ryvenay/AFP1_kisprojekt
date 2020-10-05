@@ -1,1 +1,1 @@
-Header
+<h1 class="hdTitle">Music Addict</h1>
