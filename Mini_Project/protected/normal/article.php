@@ -33,6 +33,10 @@
     <div class="alert alert-primary" role="alert">Article not found!</div>
 <?php else: ?>
     <h1><?=$article['title']; ?></h1>
+	<?php if(IsUserLoggedIn()):?>
+		<a href="index.php?P=article&A=<?=$article['id'] ?>&M=modify">Edit</a>
+		<a href="index.php?P=article&A=<?=$article['id'] ?>&M=delete">Delete</a>
+	<?php endif;?>
 	<hr>
     <!--Here is the article-->
 	<p><?php echo($article['content'])?></p>
