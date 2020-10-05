@@ -19,11 +19,11 @@
 | Review page Test | Nagy Zoltán | 18:40, 05 October 2020 | Yes |
 | Review page Test | Fügedi Csaba | 18:25, 05. October 2020 | Yes |
 | Review page Test | Nyeste Réka |  |  |
-| Review page Test | Csanádi Balázs Tóbiás |  |  |
+| Review page Test | Csanádi Balázs Tóbiás | 18:56, 05. October 2020 | Yes |
 | Interview page Test | Nagy Zoltán | 18:40, 05 October 2020 | Yes |
 | Interview page Test | Fügedi Csaba | 18:33, 05. October 2020 | Yes |
 | Interview page Test | Nyeste Réka |  |  |
-| Interview page Test | Csanádi Balázs Tóbiás |  |  |
+| Interview page Test | Csanádi Balázs Tóbiás | 19:02, 05. October 2020 | Yes |
 | Other page Test | Nagy Zoltán | 18:40, 05 October 2020 | Yes |
 | Other page Test | Fügedi Csaba | 18:35, 05. October 2020 | Yes |
 | Other page Test | Nyeste Réka |  |  |
@@ -40,11 +40,11 @@
 | Youtube link Test | Fügedi Csaba | 18:45, 05. October 2020 | Yes |
 | Youtube link Test | Nyeste Réka |  |  |
 | Youtube link Test | Csanádi Balázs Tóbiás |  |  |
-| Add Article page Test | Nagy Zoltán |  |  |
+| Add Article page Test | Nagy Zoltán | 19:10, 05. October 2020 | Yes |
 | Add Article page Test | Fügedi Csaba | 18:51, 05. October 2020 | Yes |
 | Add Article page Test | Nyeste Réka |  |  |
 | Add Article page Test | Csanádi Balázs Tóbiás |  |  |
-| Logout Test | Nagy Zoltán |  |  |
+| Logout Test | Nagy Zoltán | 19:10, 05. October 2020 | Yes |
 | Logout Test | Fügedi Csaba | 18:55, 05. October 2020 | Yes |
 | Logout Test | Nyeste Réka |  |  |
 | Logout Test | Csanádi Balázs Tóbiás |  |  |
