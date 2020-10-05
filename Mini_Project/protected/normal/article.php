@@ -34,5 +34,7 @@
 	<hr>
     <!--Here is the article-->
 	<p><?php echo($article['content'])?></p>
+	<p><?php echo($article['create_date'])?></p>
+	<p><?php echo($article['username'])?></p>
 
 <?php endif; ?>
