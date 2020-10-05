@@ -23,7 +23,7 @@
 | Interview page Test | Nagy Zoltán | 18:40, 05 October 2020 | Yes |
 | Interview page Test | Fügedi Csaba | 18:33, 05. October 2020 | Yes |
 | Interview page Test | Nyeste Réka |  |  |
-| Interview page Test | Csanádi Balázs Tóbiás |  |  |
+| Interview page Test | Csanádi Balázs Tóbiás | 19:02, 05. October 2020 | Yes |
 | Other page Test | Nagy Zoltán | 18:40, 05 October 2020 | Yes |
 | Other page Test | Fügedi Csaba | 18:35, 05. October 2020 | Yes |
 | Other page Test | Nyeste Réka |  |  |
