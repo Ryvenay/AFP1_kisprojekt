@@ -33,19 +33,19 @@
 | About us page Test | Nyeste Réka |  |  |
 | About us page Test | Csanádi Balázs Tóbiás |  |  |
 | Spotify link Test | Nagy Zoltán | 19:01, 05. October 2020 | Yes |
-| Spotify link Test | Fügedi Csaba |  |  |
+| Spotify link Test | Fügedi Csaba | 18:43, 05. October 2020 | Yes |
 | Spotify link Test | Nyeste Réka |  |  |
 | Spotify link Test | Csanádi Balázs Tóbiás |  |  |
 | Youtube link Test | Nagy Zoltán | 19:01, 05. October 2020 | Yes |
-| Youtube link Test | Fügedi Csaba |  |  |
+| Youtube link Test | Fügedi Csaba | 18:45, 05. October 2020 | Yes |
 | Youtube link Test | Nyeste Réka |  |  |
 | Youtube link Test | Csanádi Balázs Tóbiás |  |  |
 | Add Article page Test | Nagy Zoltán |  |  |
-| Add Article page Test | Fügedi Csaba |  |  |
+| Add Article page Test | Fügedi Csaba | 18:51, 05. October 2020 | Yes |
 | Add Article page Test | Nyeste Réka |  |  |
 | Add Article page Test | Csanádi Balázs Tóbiás |  |  |
 | Logout Test | Nagy Zoltán |  |  |
-| Logout Test | Fügedi Csaba |  |  |
+| Logout Test | Fügedi Csaba | 18:55, 05. October 2020 | Yes |
 | Logout Test | Nyeste Réka |  |  |
 | Logout Test | Csanádi Balázs Tóbiás |  |  |
 
