@@ -32,11 +32,11 @@
 | About us page Test | Fügedi Csaba | 18:41, 05. October 2020 | Yes |
 | About us page Test | Nyeste Réka |  |  |
 | About us page Test | Csanádi Balázs Tóbiás |  |  |
-| Spotify link Test | Nagy Zoltán |  |  |
+| Spotify link Test | Nagy Zoltán | 19:01, 05. October 2020 | Yes |
 | Spotify link Test | Fügedi Csaba |  |  |
 | Spotify link Test | Nyeste Réka |  |  |
 | Spotify link Test | Csanádi Balázs Tóbiás |  |  |
-| Youtube link Test | Nagy Zoltán |  |  |
+| Youtube link Test | Nagy Zoltán | 19:01, 05. October 2020 | Yes |
 | Youtube link Test | Fügedi Csaba |  |  |
 | Youtube link Test | Nyeste Réka |  |  |
 | Youtube link Test | Csanádi Balázs Tóbiás |  |  |
