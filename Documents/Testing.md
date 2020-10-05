@@ -15,7 +15,7 @@
 | Carousel Test | Nagy Zoltán | 18:40, 05. October 2020 | Yes |
 | Carousel Test | Fügedi Csaba | 18:12, 05. October 2020 | Yes |
 | Carousel Test | Nyeste Réka |  |  |
-| Carousel Test | Csanádi Balázs Tóbiás |  |  |
+| Carousel Test | Csanádi Balázs Tóbiás | 18:49, 05. October 2020 | Yes |
 | Review page Test | Nagy Zoltán | 18:40, 05 October 2020 | Yes |
 | Review page Test | Fügedi Csaba | 18:25, 05. October 2020 | Yes |
 | Review page Test | Nyeste Réka |  |  |
