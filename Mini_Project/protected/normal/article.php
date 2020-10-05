@@ -10,17 +10,19 @@
         $article = getArticleById($_GET['A']);
     }
 
-    if (array_key_exists('M', $_GET) && !empty($_GET['M'])) {                         //Modification parameter
-        if($_GET['M'] == "modify") {
-            header('Location: index.php?P=editArticle&A='.$article['id']);
-        }
-        else if ($_GET['M'] == "delete") {
-            require_once ARTICLE_MANAGER;
-            if (!deleteArticle($article['id'])) {
-                echo '<div class="alert alert-primary" role="alert">Error!</div>';
+    if (array_key_exists('M', $_GET) && !empty($_GET['M'])) {                   //Modification parameter
+        if(isUserLoggedIn()) {
+            if($_GET['M'] == "modify") {
+                header('Location: index.php?P=editArticle&A='.$article['id']);
             }
-            else {
-                header('Location: index.php?P=home&D=success');
+            else if ($_GET['M'] == "delete") {
+                require_once ARTICLE_MANAGER;
+                if (!deleteArticle($article['id'])) {
+                    echo '<div class="alert alert-primary" role="alert">Error!</div>';
+                }
+                else {
+                    header('Location: index.php?P=home&D=success');
+                }
             }
         }
     }
