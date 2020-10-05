@@ -35,3 +35,19 @@ img.rewimages{
 width: 400px;
 height: auto;
 }
+h1.articlehead{
+	text-align: center;
+}
+.trformat{
+	width: 200px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+#articletitle{
+	margin: auto;
+}
+.credits{
+	visibility:20%;
+	color: gray;
+}

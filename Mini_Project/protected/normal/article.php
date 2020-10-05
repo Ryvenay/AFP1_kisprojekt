@@ -32,15 +32,26 @@
     <?=$_GET['A']; ?>
     <div class="alert alert-primary" role="alert">Article not found!</div>
 <?php else: ?>
-    <h1><?=$article['title']; ?></h1>
+<div class="container">
+<div class="row">
+<div id="articletitle" class="col-md-6">
+    <h1 class="articlehead" ><?=$article['title']; ?></h1>
 	<?php if(IsUserLoggedIn()):?>
-		<a href="index.php?P=article&A=<?=$article['id'] ?>&M=modify">Edit</a>
-		<a href="index.php?P=article&A=<?=$article['id'] ?>&M=delete">Delete</a>
+		<div class="trformat">
+		 <a href="index.php?P=article&A=<?=$article['id'] ?>&M=modify">Edit</a>
+		 <a href="index.php?P=article&A=<?=$article['id'] ?>&M=delete">Delete</a>
+		</div>
 	<?php endif;?>
+</div>
+	<div class="col-md-6">
+		 <img src="<?=$article['banner']?>"></img>
+	</div>
+</div>
+	
 	<hr>
     <!--Here is the article-->
 	<p><?php echo($article['content'])?></p>
-	<p><?php echo($article['create_date'])?></p>
-	<p><?php echo($article['username'])?></p>
-
+	<p class="credits"><?php echo($article['create_date'])?></p>
+	<p class="credits"><?php echo($article['username'])?></p>
+</div>
 <?php endif; ?>
