@@ -3,7 +3,7 @@
     $articles = getArticlesByCategory('Review');
 ?>
 
-<h1>Reviews</h1>
+<h1 class="h1edit">Reviews</h1>
 <hr>
 <div class = "container">
     <?php foreach($articles as $a) : ?>

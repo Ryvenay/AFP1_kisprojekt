@@ -4,7 +4,7 @@
 
 ?>
 
-<h1>Interviews</h1>
+<h1 class="h1edit">Interviews</h1>
 <hr>
 <div class = "container">
     <?php foreach($articles as $a) : ?>
