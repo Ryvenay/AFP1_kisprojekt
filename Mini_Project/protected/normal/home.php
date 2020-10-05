@@ -41,8 +41,7 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-
+<hr>
 <div class="container">
     <h2>Latest reviews</h2>
     <div class = "row">
