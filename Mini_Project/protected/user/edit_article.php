@@ -69,7 +69,7 @@
 <?php if (!isUserLoggedIn()): ?>
     <?php header('Location: index.php'); ?>
 <?php else: ?>
-<h1>Edit</h1>
+<h1 class="h1edit">Edit</h1>
 
 <form method = "POST" enctype="multipart/form-data">
     <input type="hidden" id="articleId" name="ID" value=<?=$ID; ?>>
