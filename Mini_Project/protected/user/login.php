@@ -15,7 +15,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['login']))
   $postData['password'] = "";
 }
 ?>
-
+<div class="container">
+<h1 class="h1edit"> Login </h1>
 <form method="post">
   <div class="form-group">
     <label for="loginUsername">Username</label>
@@ -27,3 +28,4 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['login']))
   </div>
   <button type="submit" class="btn btn-primary" name="login">Login</button>
 </form>
+</div>
