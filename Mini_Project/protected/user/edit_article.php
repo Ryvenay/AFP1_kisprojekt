@@ -70,7 +70,7 @@
     <?php header('Location: index.php'); ?>
 <?php else: ?>
 <h1 class="h1edit">Edit</h1>
-
+<hr>
 <form method = "POST" enctype="multipart/form-data">
     <input type="hidden" id="articleId" name="ID" value=<?=$ID; ?>>
     <div class = "form-row justify-content-md-center">
