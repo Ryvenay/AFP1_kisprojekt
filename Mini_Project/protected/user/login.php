@@ -27,8 +27,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['login']))
     <label for="loginPassword">Password</label>
     <input type="password" class="form-control" id="loginPassword" name="password" value="">
   </div>
-  <div class="genny">
-  <button type="submit" class="btn btn-primary" name="login">Login</button>
+  <div>
+  <button id="genny" type="submit" class="btn btn-primary" name="login">Login</button>
   </div>
 </form>
 </div>
