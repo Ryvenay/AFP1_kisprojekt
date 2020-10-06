@@ -44,7 +44,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['add'])) {
 <?php if (!isUserLoggedIn()): ?>
     <?php header('Location: index.php'); ?>
 <?php else: ?>
-<h1>New article</h1>
+<h1 class="h1edit">New article</h1>
 
 <form method = "POST" enctype="multipart/form-data">
     <div class = "form-row justify-content-md-center">
